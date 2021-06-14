@@ -1,2 +1,2 @@
 # Clock
- A  Clock with HTML, CSS and JS 
+ An  Clock with HTML, CSS and JS 
